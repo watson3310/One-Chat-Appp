@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "833007596176",
+    "firebase_url": "https://chatmessenger-26b0b-default-rtdb.firebaseio.com",
+    "project_id": "chatmessenger-26b0b",
+    "storage_bucket": "chatmessenger-26b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833007596176:android:41e82571c6bf7a49a99e15",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6cT_4QAFdzxmrD9cUXiQrJEYIZh6gsRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
